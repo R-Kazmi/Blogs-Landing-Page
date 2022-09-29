@@ -1,0 +1,9 @@
+/* poppins font import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* css for all elements */
+* {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
